@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Lendmarks
-//
-//  Created by Константин Филиппов on 15.01.2025.
-//
-
 import SwiftUI
 
 struct ContentView: View {
